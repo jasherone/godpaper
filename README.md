@@ -24,6 +24,13 @@ I of course refer here to the constants of the physical world:
 
 **R**,Electrical resistance;
 
+# Slide Share
+
+Introducing of computer chess: <a href="http://www.slideshare.net/YangboZhou/introducing-ofcomputerchess">http://www.slideshare.net/YangboZhou/introducing-ofcomputerchess</a>
+
+Introducing of godpaper framework: <a href="http://www.slideshare.net/YangboZhou/introducing-ofgodpaperframework">http://www.slideshare.net/YangboZhou/introducing-ofgodpaperframework</a>
+
+
 # Games under "GODPAPER" framework
 
 ##Flex MXML based
